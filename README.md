@@ -1,6 +1,6 @@
 # P2 – Infra 1: VPN Site-to-Site FortiGate ↔ FortiGate
 **Gregorys Morel Duluc – 2025-0035 – Seguridad de Redes (ITLA)**
-
+https://youtu.be/j5v7lGj5dFg
 ## Topología
 FG1 (usuarios) ⇄ ISP 200.35.0.0/24 ⇄ FG2 (servidor). Emulado en GNS3.
 
